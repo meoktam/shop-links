@@ -1,6 +1,12 @@
 window.SHOP_LINKS = {
   products: [
     {
+      id: "gwanghwamun-mijin-bibim-memil",
+      title: "시원하게 즐기는 비빔메밀",
+      productName: "광화문 미진 비빔메밀",
+      embedHtml: "<a href=\"https://link.coupang.com/a/ghNql0jDI4\" target=\"_blank\" referrerpolicy=\"unsafe-url\"><img src=\"https://image9.coupangcdn.com/image/affiliate/banner/5d308075b42584d5c6aee8ecf54b2a37@2x.jpg\" alt=\"광화문 미진 비빔메밀 2인분 (냉동), 462.4g, 1개\" width=\"120\" height=\"240\"></a>"
+    },
+    {
       id: "hankki-konjac-brown-rice-kimchi-fried-rice",
       title: "가볍게 챙기는 냉동 볶음밥",
       productName: "한끼통살 곤약 현미 볶음밥",
